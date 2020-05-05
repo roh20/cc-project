@@ -1,0 +1,5 @@
+http://ccproject-website.s3-website-us-east-1.amazonaws.com
+
+us-east-1_MBWJvlTXb
+
+3341208f0tv6pkd836msbu3m61 - app client id
